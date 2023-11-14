@@ -97,6 +97,7 @@ nav ul li a {
     font-style: normal;
     font-weight: 700;
     line-height: 116%;
+    text-transform: uppercase;
 }
 .active {
     color: #f00;
